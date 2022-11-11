@@ -1,0 +1,11 @@
+# requirements.txt
+
+Flask
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+seaborn
+statsmodels
+pytest-warnings
